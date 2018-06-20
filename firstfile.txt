@@ -1,5 +1,1 @@
 bla bla bla
-
-foo bar baz
-
-extra lines
